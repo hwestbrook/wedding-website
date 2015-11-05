@@ -48,6 +48,11 @@ h6 {
     font-family: 'Source Sans Pro', sans-serif;
 }
 
+h6 {
+  font-style: italic;
+  text-transform: none!important;
+}
+
 p {
     margin-bottom: 20px;
     font-size: 16px;
@@ -410,7 +415,7 @@ fieldset[disabled] .btn-default.active {
 .open > .dropdown-toggle.btn-primary {
     border-color: #d4af37;
     color: #fff;
-    background-color: #d4af37; 
+    background-color: #d4af37;
 }
 
 .btn-primary:active,
